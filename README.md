@@ -44,5 +44,5 @@ The dataset includes features such as:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Loan-Default-Prediction.git
+   git clone https://github.com/iamlilsaint/Loan-Default-Prediction.git
    cd Loan-Default-Prediction

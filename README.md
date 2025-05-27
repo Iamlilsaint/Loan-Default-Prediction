@@ -31,6 +31,7 @@ The dataset includes features such as:
 - Borrower income
 - Credit score
 - Loan term
+- Loan History
 - Employment status
 - Default status (target variable)
 

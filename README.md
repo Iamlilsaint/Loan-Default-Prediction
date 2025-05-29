@@ -4,7 +4,7 @@
 
 >>>>>>> a2d0809 (Added project structure, requirements, and updated README)
 
-This project aims to build a predictive model that identifies the likelihood of a borrower defaulting on a loan. By analyzing historical financial and demographic data, the model helps financial institutions make informed lending decisions and reduce credit risk.
+This project aims to build a predictive model that identifies the likelihood of a borrower defaulting on a loan. By analysing historical financial and demographic data, the model helps financial institutions make informed lending decisions and reduce credit risk.
 
 ## 📌 Project Objectives
 

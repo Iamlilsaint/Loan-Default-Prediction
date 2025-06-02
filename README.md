@@ -9,7 +9,7 @@ This project aims to build a predictive model that identifies the likelihood of 
 ## 📌 Project Objectives
 
 - Predict loan default risk based on borrower data.
-- Improve decision-making for loan approvals.
+- Improve decision-making loan approvals.
 - Provide interpretable insights to support financial analysis.
 
 ## 🧠 Features

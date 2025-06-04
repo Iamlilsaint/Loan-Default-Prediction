@@ -15,7 +15,7 @@ This project aims to build a predictive model that identifies the likelihood of 
 ## 🧠 Features
 
 - Data preprocessing and cleaning
-- Exploratory Data Analysis
+- Exploratory Data Analysis (EDA)
 - Feature engineering and selection
 - Model training using supervised learning algorithms
 - Model evaluation using performance metrics
